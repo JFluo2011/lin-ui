@@ -8,11 +8,11 @@
   margin-right: 15rpx !important;
 }
 
-.container{
+/* .container{
   display: flex;
   flex-direction: row;
   align-items: flex-end;
-}
+} */
 
 .l-tag {
   padding: 0 16rpx;

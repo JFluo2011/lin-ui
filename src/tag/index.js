@@ -12,6 +12,7 @@ Component({
       type: String,
       value: 'square'
     },
+    height:Number,
     // 是否为选中态
     select: Boolean,
     // 是否镂空
